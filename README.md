@@ -1,5 +1,7 @@
 # bug-spotless-ktlint-experimental-rules
 
+Bug report: https://github.com/diffplug/spotless/issues/1636
+
 Spotless seems to not run ktlint experimental rules despite being configured to do so.
 
 In this repository experimental rules are enabled in both `.editorconfig` and `build.gradle.kts`. Despite this:
